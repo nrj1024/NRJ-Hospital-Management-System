@@ -3,4 +3,4 @@ My high school C++ project. Kinda toyish but what's cute about it is that it imp
 
 Source Code : NRJ-Hospital-Management-System/src/NRJ.CPP
 
-![Preview](http://url/to/img.png)
+![Preview](https://github.com/nrj1024/NRJ-Hospital-Management-System/blob/master/Preview.png)
